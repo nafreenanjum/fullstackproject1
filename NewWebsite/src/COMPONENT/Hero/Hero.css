@@ -89,10 +89,10 @@
 
 .hero-right img {
     width: 650px; /* Image width */
-    height: auto; /* Maintain aspect ratio */
+    height: 750px; /* Maintain aspect ratio */
     display: block; /* Remove any inline spacing */
     position:relative;
-    right:500px;
+    right:700px;
 }
 
 .heading p{
