@@ -5,7 +5,9 @@ A fully responsive, full-stack **E-commerce web application** built using **Reac
 
 ## 📖 Description
 
-Built a full-stack, responsive e-commerce web application featuring secure user authentication, dynamic product listing, and persistent cart functionality. Implemented an admin panel to manage products, including product uploads with images, updates, and deletions. Integrated category-specific sections (Men, Women, Kids) with filtering by size and price. Backend powered by Express.js and MongoDB for efficient user, cart, and product management, ensuring a seamless and scalable shopping experience.
+Built a full-stack responsive e-commerce web app with secure authentication, dynamic product management, and persistent cart using Context API. Implemented an admin panel to manage products, including product uploads with images, updates, and deletions. Stripe API for payment gateway, and Gemini AI chatbot for smart product queries. Features category-wise filtering for Men, Women, and Kids.
+
+
 
 
 ## ✨ Features
@@ -17,6 +19,7 @@ Built a full-stack, responsive e-commerce web application featuring secure user 
 - View product details with images
 - Persistent cart across sessions
 - Responsive layout for mobile and desktop
+- Payment option
 
 ### 🛠 Admin Panel
 - Admin authentication
