@@ -5,5 +5,3 @@ admin/node_modules/
 backend/.env 
 frontend/.env 
 admin/.env 
-.DS_Store 
-uploads/ 
